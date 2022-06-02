@@ -1,3 +1,4 @@
 pydub
 soundfile
 numpy
+thinkdsp
